@@ -19,17 +19,6 @@ O programa Soul Pet foi desenvolvido utilizando as seguintes tecnologias:
 |---|---|---|---|---|
 |![](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=plastic)|![](https://img.shields.io/badge/-Postman-black?logo=postman&style=plastic)|![](https://img.shields.io/badge/-Git-black?logo=git&style=plastic)|![](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=plastic)|![](https://img.shields.io/badge/-Css-black?logo=css3&style=plastic)
 
-<h3>Instalação</h3>
-1. Clone este repositório: `git clone https://github.com/jessicavenancio/soulpet-back.git ` <br />
-2. Instale as dependências: `npm install`
-
-<h3>Como executar</h3>
-1. Inicie o servidor: `npm start` <br />
-2. Acesse a página em seu navegador em: `http://localhost:3001`
-
-<h3>Lista de endpoints da API</h3>
-Aqui estão as rotas disponíveis, os recursos e os parâmetros necessários para realizar as operações.
-
 - Clientes <br />
 #### Consulta todos os clientes
 ```http
